@@ -1,0 +1,11 @@
+# run 1000ns
+[PASS] FIPS-197 : ct=69c4e0d86a7b0430d8cdb78070b4c55a
+[PASS] SP800-38A blk1 : ct=3ad77bb40d7a3660a89ecaf32466ef97
+[PASS] SP800-38A blk2 : ct=f5d3d58503b9699de785895a96fdbaaf
+[PASS] SP800-38A blk3 : ct=43b1cd7f598ece23881b00e3ed030688
+[PASS] SP800-38A blk4 : ct=7b0c785e27e8ad3f8223207104725dd4
+[PASS] all-zero key+pt : ct=66e94bd4ef8a2c3b884cfa59ca342b2e
+[PASS] all-one key+pt : ct=bcbf217cb280cf30b2517052193ab979
+--------------------------------------------------
+Total: 7   Passed: 7   Failed: 0
+ALL TESTS PASSED
