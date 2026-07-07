@@ -43,6 +43,3 @@ AES-128-Encryption-Engine-with-Key-Expansion/
 └── Simulation/             # Testbench(es) verifying the encryption datapath and
                              # key expansion against known-answer test vectors
 
-
-
-> I don't have the exact filenames inside `RTL/` or `Simulation/` yet — same as the other repos, share a screenshot of each folder's contents and I'll swap the generic descriptions above for exact file references.
